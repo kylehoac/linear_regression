@@ -1,3 +1,3 @@
 # Pull Request
 
-[Link to PR](link)
+[Link to PR](https://github.com/kylehoac/linear_regression/pull/2)
